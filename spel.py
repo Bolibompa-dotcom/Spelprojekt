@@ -19,3 +19,4 @@ while True:
 
 #hej hej random
 print("hello world")
+print("hello world")
