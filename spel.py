@@ -1,6 +1,9 @@
 #STORYLINE...
 
-print.modul.py("Du är den utvalde.")
+import modul_demo 
+modul_demo.text
+
+print("Du är den utvalde.")
 print("Universum behöver din hjälp.")
 while True:
     try:    
@@ -14,3 +17,6 @@ while True:
 
     except:
         print("Något gick fel.")
+
+
+        
