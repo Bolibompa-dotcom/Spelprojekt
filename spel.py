@@ -1,8 +1,6 @@
-#Hej girls
-#död papi
-# print("hej")
-# print("Hejj")
-print("Du är den utvalde.")
+#STORYLINE...
+
+print.modul.py("Du är den utvalde.")
 print("Universum behöver din hjälp.")
 while True:
     try:    
@@ -16,7 +14,3 @@ while True:
 
     except:
         print("Något gick fel.")
-
-#hej hej random
-print("hello world")
-print("hello world")
